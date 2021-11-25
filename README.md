@@ -23,12 +23,11 @@ ArcFace in Pedestrian Re-Identification - pytorch 1.7.1, python 3.8
 - Conclusion
 
 ## Getting Started
-**download dataset**
+**Image Recognition in opened dataset**
 <!--
 ### Depencies
  Write about need to install the software and how to install them 
 -->
-### Installing
 <!-- A step by step series of examples that tell you how to get a development 
 env running
 
@@ -39,11 +38,13 @@ Say what the step will be
 And repeat
 
     until finished
-
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
 -->
+**If you want to learn a model again**
+1. Click `download data` button (included train, valid dataset)
+2. `clone`  this repository
+3. docker ... 
+4. 
+
 <!--
 ## Deployment
  Add additional notes about how to deploy this on a live system
