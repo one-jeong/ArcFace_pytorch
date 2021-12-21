@@ -1,5 +1,7 @@
+![Generic badge](https://img.shields.io/badge/python-3.8-blue.svg)
+
 # ArcFace_pytorch
-ArcFace in Pedestrian Re-Identification - pytorch 1.7.1, python 3.8
+ArcFace in Pedestrian Re-Identification
 
 ## Index
   - [Overview](#overview) 
