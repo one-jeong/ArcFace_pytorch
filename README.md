@@ -1,7 +1,10 @@
 ![Generic badge](https://img.shields.io/badge/python-3.8-blue.svg)
 ![Generic badge](https://img.shields.io/badge/pytorch-1.7.1-blue.svg)
+![Generic badge](https://img.shields.io/badge/ubuntu-16.04-orange.svg)
+![Generic badge](https://img.shields.io/badge/gpu-RTX_3090-yellowgreen.svg)
 
 # ArcFace_pytorch
+paper : https://arxiv.org/abs/1801.07698 
 ArcFace in Pedestrian Re-Identification
 
 ## Index
