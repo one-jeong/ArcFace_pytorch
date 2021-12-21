@@ -1,4 +1,5 @@
 ![Generic badge](https://img.shields.io/badge/python-3.8-blue.svg)
+![Generic badge](https://img.shields.io/badge/pytorch-1.7.1-blue.svg)
 
 # ArcFace_pytorch
 ArcFace in Pedestrian Re-Identification
