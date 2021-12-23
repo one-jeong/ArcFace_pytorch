@@ -4,7 +4,7 @@
 ![Generic badge](https://img.shields.io/badge/gpu-RTX_3090-yellowgreen.svg)
 
 # ArcFace_pytorch
-- paper : https://arxiv.org/abs/1801.07698
+- original paper : https://arxiv.org/abs/1801.07698
 - ArcFace in Pedestrian Re-Identification
 
 ## Index
