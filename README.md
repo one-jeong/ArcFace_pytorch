@@ -46,10 +46,11 @@ And repeat
     until finished
 -->
 **If you want to learn a model again**
-1. Click `download data` button (included train, valid dataset)
-2. `clone`  this repository
-3. docker ... 
-4. 
+1. Click [download data](https://aihub.or.kr/aidata/7977) button (link to download page)
+2. Set data (categorize images each ID)
+3. `clone`  this repository
+4. docker ... 
+5. 
 
 **You can Download model**
 
