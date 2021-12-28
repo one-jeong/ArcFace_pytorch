@@ -53,7 +53,7 @@ And repeat
 
 **You can Download model**
 
-<!-- [GoogleDrive](https://drive.google.com/file/d/1HasWQb86s4xSYy36YbmhRELg9LBmvhvt/view?usp=sharing) -->
+[GoogleDrive](https://drive.google.com/file/d/1ycxiUJ--SYfgZ0F2OZ0TBhKuhMVQL_Y5/view?usp=sharing)
 <!--
 ## Deployment
  Add additional notes about how to deploy this on a live system
