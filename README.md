@@ -26,7 +26,7 @@
 - Learning parameters
 - Inference
 - Evaluation result
-- Conclusion
+
 
 ## Getting Started
 **Image Recognition in opened dataset**
