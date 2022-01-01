@@ -27,7 +27,7 @@
 - Inference
 - Evaluation result
 **part of object tracking in multi camera** 
-- <img width="70%" src="https://user-images.githubusercontent.com/22339360/147032632-db9bfe46-28c0-4bd5-9943-ed8adc07b1b9.png"/>
+- <img width="70%" src="https://user-images.githubusercontent.com/22339360/147850656-c4737588-8ed1-479d-b2b7-ced47fd6ed40.png"/>
 
 
 ## Getting Started
