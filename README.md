@@ -26,8 +26,10 @@
 - Learning parameters
 - Inference
 - Evaluation result
+
 **part of object tracking in multi camera** 
-- <img width="70%" src="https://user-images.githubusercontent.com/22339360/147850656-c4737588-8ed1-479d-b2b7-ced47fd6ed40.png"/>
+
+<img width="70%" src="https://user-images.githubusercontent.com/22339360/147850656-c4737588-8ed1-479d-b2b7-ced47fd6ed40.png"/>
 
 
 ## Getting Started
@@ -50,7 +52,7 @@ And repeat
 **If you want to learn a model again**
 1. Click [download data](https://aihub.or.kr/aidata/7977) button (link to download page)
 2. Set data (categorize images each ID)
-train data structure example
+- train data structure example
 
 3. `clone`  this repository
 4.  
