@@ -55,7 +55,6 @@ And repeat
 - train data structure example
 <img width="70%" src="https://user-images.githubusercontent.com/22339360/147875647-ac5f9bc8-2325-40e6-9376-f4e6b797b395.png"/>
 3. `clone`  this repository
-4.  
 
 **You can Download model**
 
