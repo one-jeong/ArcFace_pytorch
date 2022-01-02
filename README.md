@@ -50,7 +50,7 @@ And repeat
     until finished
 -->
 **If you want to learn a model again**
-1. Click [AI Hub Korean Re-ID](https://aihub.or.kr/aidata/7977) | [PRID dataset](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/prid11/) button (link to download page)
+1. Click [AI Hub Korean Re-ID](https://aihub.or.kr/aidata/7977) | [PRID dataset](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/prid11/) button to download dataset (link to download page)
 2. Set data (categorize images each ID)
 - train data structure example
 
