@@ -53,7 +53,7 @@ And repeat
 1. Click [AI Hub Korean Re-ID](https://aihub.or.kr/aidata/7977) | [PRID dataset](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/prid11/) button to download dataset (link to download page)
 2. Set data (categorize images each ID)
 - train data structure example
-<img width="70%" src="https://user-images.githubusercontent.com/22339360/147875495-1fcf3f7b-9680-4568-8a1a-8218950545dd.png>
+<img width="70%" src="https://user-images.githubusercontent.com/22339360/147875495-1fcf3f7b-9680-4568-8a1a-8218950545dd.png"/>
 3. `clone`  this repository
 4.  
 
