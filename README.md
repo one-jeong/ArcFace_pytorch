@@ -56,7 +56,7 @@ And repeat
 <img width="70%" src="https://user-images.githubusercontent.com/22339360/147875647-ac5f9bc8-2325-40e6-9376-f4e6b797b395.png"/>
 3. `clone`  this repository
 
-**You can Download model**
+### **You can Download model**
 
 [GoogleDrive](https://drive.google.com/file/d/1ycxiUJ--SYfgZ0F2OZ0TBhKuhMVQL_Y5/view?usp=sharing)
 <!--
@@ -71,7 +71,7 @@ And repeat
 
 
 ## Used or Referenced Projects
-- [github/arcface-pytorch](https://github.com/ronghuaiyang/arcface-pytorch)
+- [ronghuaiyang/arcface-pytorch](https://github.com/ronghuaiyang/arcface-pytorch)
 
 ## License
 
