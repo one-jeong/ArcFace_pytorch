@@ -64,14 +64,14 @@ And repeat
  Add additional notes about how to deploy this on a live system
  -->
 
+## Performance
 
 ## Authors
   - [wonjeong lee](https://github.com/one-jeong) - **WonJeong Lee** - <itzmewj97@gmail.com>
 
-<!--
+
 ## Used or Referenced Projects
- - [referenced Project](project link) - **LICENSE** - little-bit introduce
--->
+- [github/arcface-pytorch](https://github.com/ronghuaiyang/arcface-pytorch)
 
 ## License
 
