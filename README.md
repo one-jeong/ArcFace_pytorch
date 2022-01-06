@@ -6,6 +6,7 @@
 # ArcFace_pytorch
 - original paper : https://arxiv.org/abs/1801.07698
 - ArcFace in Pedestrian Re-Identification
+- 2021.06~2021.11
 
 ## Index
   - [Overview](#overview) 
